@@ -1,0 +1,27 @@
+{
+  "name": "appsdev-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siping-appsdev/appsdev-koa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siping-appsdev/appsdev-koa/issues"
+  },
+  "homepage": "https://github.com/siping-appsdev/appsdev-koa#readme",
+  "dependencies": {
+    "koa": "^2.14.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
